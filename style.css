@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#size {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: red;
+}
+
+.container {
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
